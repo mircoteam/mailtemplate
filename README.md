@@ -61,3 +61,5 @@
   * 编译生成二进制文件
     `./control build`
 
+# 扩展说明
+  如果想做其它指标的展现，可以对extends/mailtemplate.go文件中MailTmpl结构进行扩展。然后在mail.tpl中进行展现即可
