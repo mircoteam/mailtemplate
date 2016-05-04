@@ -29,7 +29,7 @@
       >增加导入包  
         `"github.com/open-falcon/alarm/extends/mailtemplate"`  
       >去除导入包  
-        `//"github.com/open-falcon/alarm/g"`
+        `//"github.com/open-falcon/alarm/g"`  
       >修改前:  
 
         func BuildCommonMailContent(event *model.Event) string {
